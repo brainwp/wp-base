@@ -1,3 +1,6 @@
 [submodule "wp-content/themes/odin"]
 	path = wp-content/themes/odin
 	url = https://github.com/wpbrasil/odin.git
+[submodule "wp-content/plugins/reveal-modal"]
+	path = wp-content/plugins/reveal-modal
+	url = https://github.com/brasadesign/reveal-modal.git
